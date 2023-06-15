@@ -20,6 +20,8 @@ Print the result
 ```
 
 ## Program:
+DEVELOPED BY: JERUSHLIN JOSE J B
+REG NO:212222240039
 ```
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
@@ -30,7 +32,11 @@ print(inverse)
 
 
 
-![image](https://github.com/Jerushli/INVERSE-OF-A-MATRIX/assets/120041243/5f2212b3-00f2-4d14-9a02-2a23bbabd8cf)
+
+
+
+![Screenshot 2023-06-15 145005](https://github.com/Jerushli/INVERSE-OF-A-MATRIX/assets/120041243/91e9ee86-4991-47cd-92e0-de0f0b5d5fcd)
+
 
 
 ## Result:
